@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@import "partial/normalize";
+@import "partial/base";
+@import "partial/func";
+@import "mod/index";
+
+html,
+body {
+    position: relative;
+    font-family: "微软雅黑", "Helvetica Neue", Helvetica, STHeiTi, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
